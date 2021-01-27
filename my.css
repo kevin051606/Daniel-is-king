@@ -1,0 +1,25 @@
+nav{
+  background-color:blue;
+  height: 30px;
+}
+.nav{
+  padding: 3px;
+  position:relative;
+  top: 5;
+  color:white;
+}
+.nav:hover{
+   padding: 3px;
+  position:relative;
+  top: 5;
+  background-color:darkblue;
+}
+header
+,body{
+  margin: 0px;
+  padding: 0px;
+}
+h1,
+h6{
+  text-align: center;
+  }
